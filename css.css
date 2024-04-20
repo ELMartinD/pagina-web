@@ -10,7 +10,7 @@ p.item {
     font-family: "Nunito", sans-serif;
     font-weight: 1000;
     color: black;
-    font-size: 135%;
+    font-size: 100%;
     border-radius: 14%;
 }
 
@@ -51,7 +51,7 @@ body{
 .parrafo {
     text-align: center;
     color: black;
-    font-size: 130%;
+    font-size: 100%;
     font-family: "Nunito", sans-serif;
     font-weight: 1000;
 }
