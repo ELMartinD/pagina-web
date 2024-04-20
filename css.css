@@ -1,7 +1,6 @@
 .navegacion {
-    width: 96%;
+    width: 100%;
     background-color: rgb(255 255 255);
-    padding: 2%;
 }
 
 p.item {
@@ -10,10 +9,11 @@ p.item {
     font-weight: 1000;
     color: black;
     font-size: 100%;
+    padding: 0.5%;
 }
 
 .item {
-    display: inline;
+    display: inline-block;
     color: white;
     margin: 35px;
 }
