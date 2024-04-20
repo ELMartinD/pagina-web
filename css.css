@@ -6,12 +6,10 @@
 
 p.item {
     background-color: #00000030;
-    padding: 1%;
     font-family: "Nunito", sans-serif;
     font-weight: 1000;
     color: black;
     font-size: 100%;
-    border-radius: 14%;
 }
 
 .item {
